@@ -1,3 +1,0 @@
-const resume={
-    name:'dsajdajsdjas'
-}
